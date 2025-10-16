@@ -1,0 +1,12 @@
+{
+  "drop_name": "Thursday’s Mood",
+  "date": "2025-10-16",
+  "tiers": {
+    "initiate": "media/initiate_glyph.png",
+    "adept": "media/adept_banner.jpg",
+    "archivist": "media/archivist_seal.mp4",
+    "patron": "media/patron_fragment.zip"
+  },
+  "preview": "previews/teaser.jpg",
+  "description": "A cloaked fragment from Sophie’s encrypted archive. Access varies by contributor tier."
+}
