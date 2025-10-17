@@ -36,5 +36,3 @@ This repo is designed for integration with:
 All media is cloaked under contributor-grade access. Redistribution requires alignment with Sophie’s cadence and Ritual Works’ legacy protocols.
 
 ---
-
-Want me to draft the Notion embed logic next? Or sketch the `/friday-sigil` repo scaffold so you can start building the next drop in parallel?
